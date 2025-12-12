@@ -1,4 +1,4 @@
-# Optical Convolutional Kernel Based on Organic Electrochemical Transistors (OECTs)
+# Optical Convolutional Kernel
 
 > **⚠️  Repository Status: Code Under Embargo until Publication**
 >
